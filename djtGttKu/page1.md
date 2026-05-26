@@ -33,3 +33,7 @@ Option 10 : Labvm DNS Name : <inject key="Labvm DNS Name"></inject>
 Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold            [does not show email]
 
 Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2     only shows it as content with key name but not actual email value
+
+
+
+Validations Section [Different Template]
