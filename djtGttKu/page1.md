@@ -38,3 +38,4 @@ Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part
 
 Validations Section [Different Template]
 <validation step="79cfd46f-c840-43a8-8415-a8b55161c38d" />
+<validation step="02ff968d-ed76-4b8a-8616-1974553b6e66" />
