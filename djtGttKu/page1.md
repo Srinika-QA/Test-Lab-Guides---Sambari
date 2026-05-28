@@ -1,5 +1,3 @@
-# Intro & Inject Keys
-
 # Paragraph Test : 
 <br>
 
@@ -34,8 +32,3 @@ Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold     
 
 Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2     only shows it as content with key name but not actual email value
 
-
-
-Validations Section [Different Template]
-<validation step="79cfd46f-c840-43a8-8415-a8b55161c38d" />
-<validation step="02ff968d-ed76-4b8a-8616-1974553b6e66" />
