@@ -17,7 +17,7 @@ Option 2 : 1
 Good!
 
 ## Incorrect Answer Feedback
-Could Improve!
+Answer is - To find as many defects as possible.
 
 ## Number of Retries
 2
