@@ -32,7 +32,9 @@
    -> For **Password**, enter <inject key="AzureAdUserPassword" enableCopy="false" />.
    
    
-<validation step="99d5261d-60c5-4b4a-9055-705f688ffa93" />
+<validation step="46176bec-0305-479e-8165-7ab3a6bb8d61" />
+<validation step="ad7931cd-3ea9-42e4-a766-6b85f27ac035" />
+
 
 
 
