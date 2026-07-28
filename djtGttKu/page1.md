@@ -32,5 +32,5 @@ Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold     
 
 Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2     only shows it as content with key name but not actual email value
 
-<question source="page1IWsZEJNt" />
+
 
