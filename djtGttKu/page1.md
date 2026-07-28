@@ -32,5 +32,7 @@ Option 11 : <inject key="**AzureAdUserEmail**"></inject>   username in bold     
 
 Option 12 : <inject key=**"AzureAdUserEmail"**></inject>   username in bold part 2     only shows it as content with key name but not actual email value
 
+Validation One Test : Page 1
+<validation step="6575274b-6889-4879-a804-50751be8aa14" />
 
 
