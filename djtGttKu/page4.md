@@ -13,3 +13,6 @@ Passing a URL directly in the Lab guide. **Ex** : https://www.youtube.com/watch?
 ```
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fnature&psig=AOvVaw06TzaQHiuxybkRlLJLvfxo&ust=1739343936597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiox56Hu4sDFQAAAAAdAAAAABAE
 ```
+
+Test Validation Three - Page 4
+<validation step="5885b675-9d2f-4cf2-976b-eb1a433a8a4b" />
