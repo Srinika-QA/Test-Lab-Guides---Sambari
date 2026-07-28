@@ -32,3 +32,5 @@
    -> For **Password**, enter <inject key="AzureAdUserPassword" enableCopy="false" />.
    
    
+Page 2 : Validation Test Two
+<validation step="50ea390c-ad2f-4503-a075-d19c94e92794" />
