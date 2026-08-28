@@ -2,6 +2,9 @@
 <br>
 <inject key="AzureAdUserEmail"  defaultvalue="Defaultemail@example.com">   // output shows Key value since its valid
 
+<grouped-questions source="page2_Group_RRkmkDUd" />
+
+
 <inject key="**AzureAdUserEmail**" defaultvalue="Defaultemail@example.com">   // output shows Key value since its valid
 
 <inject key="Sample" defaultvalue="Defaultemail@example.com">     // output shows default value since key is invalid
@@ -14,3 +17,7 @@
 
 
 <grouped-questions source="page2_Group_RRkmkDUd" />
+
+
+
+
