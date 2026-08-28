@@ -5,3 +5,6 @@ Once you have successfully registered using one of the available methods, you wi
 To login to Azure, navigate to **Environment** tab, copy cloud user name **<inject key="AzureAdUserEmail"></inject>** and password **<inject key="AzureAdUserPassword"></inject>**
 
 <question source="page1v9z31iFO" />
+
+
+<validation step="1d66ab24-7423-45c1-84cc-b968a8be3f9c" />
