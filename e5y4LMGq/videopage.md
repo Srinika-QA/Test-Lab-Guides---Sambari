@@ -15,7 +15,6 @@ YouTube Share link URL :::
 
 <inline-video source="https://youtu.be/hsles7xMMFA?si=h9HnAWDWC5t7oRDR" width="auto" height="auto" />
 
-<inline-video source="https://youtu.be/hsles7xMMFA?si=h9HnAWDWC5t7oRDR" width="auto" height="auto" />
 
 
 ## Link 3 : YouTube
